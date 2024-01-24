@@ -1,5 +1,10 @@
 package au.com.telstra.simcardactivator.entity;
 
-public class Result {
+import lombok.Data;
+
+@Data
+public class Result 
+{
+	private String success;
 
 }
