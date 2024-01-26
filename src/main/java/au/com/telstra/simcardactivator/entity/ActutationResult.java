@@ -3,7 +3,7 @@ package au.com.telstra.simcardactivator.entity;
 import lombok.Data;
 
 @Data
-public class Result 
+public class ActutationResult 
 {
 	private String success;
 
